@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mywebsite>
+    <LAST_UPDATE>2022-07-18 10:52</LAST_UPDATE>
+    <PRODUCTS>
+        <PRODUCT>
+            <NAME>
+                <![CDATA[ROCKET COMPLETE SKATEBOARD RASTA FADE 8.0" Complete Skateboard από τη Rocket σε Μαύρο Rasta χρώμα]]>
+            </NAME>
+
+            <PRICE>
+                        64.9
+                    </PRICE>
+            <QUANTITY>3</QUANTITY>
+            <CATEGORY id="113000102">
+                        BOARDS-&gt;Complete Skateboards
+                    </CATEGORY>
+            <MANUFACTURER>
+                        ROCKET
+                    </MANUFACTURER>
+            <BARCODE>
+                <![CDATA[5056245544934]]>
+            </BARCODE>
+            <WEIGHT>
+                <![CDATA[6.1kg]]>
+            </WEIGHT>
+            <INSTOCK>Y</INSTOCK>
+            <AVAILABILITY>Άμεσα Διαθέσιμο</AVAILABILITY>
+        </PRODUCT>
+        <PRODUCT>
+            <NAME>
+                <![CDATA[TONY HAWK SS540 COMPLETE SKATE HIGHWAY MULTI 7.5" Tony Hawk Complete Skateboard σε χρώμα μαύρο]]>
+            </NAME>
+
+            <PRICE>
+                        70
+                    </PRICE>
+            <QUANTITY>3</QUANTITY>
+            <CATEGORY id="113000102">
+                        BOARDS-&gt;Complete Skateboards
+                    </CATEGORY>
+            <MANUFACTURER>
+                        ROCKET
+                    </MANUFACTURER>
+            <BARCODE>
+                <![CDATA[5056245544934]]>
+            </BARCODE>
+            <WEIGHT>
+                <![CDATA[7.1kg]]>
+            </WEIGHT>
+            <INSTOCK>Y</INSTOCK>
+            <AVAILABILITY>Άμεσα Διαθέσιμο</AVAILABILITY>
+        </PRODUCT>
+
+
+        <PRODUCT>
+            <NAME>
+<![CDATA[adidas Galaxy 6 Ανδρικά Αθλητικά Παπούτσια Running Core Black]]>
+            </NAME>
+            <PRICE>
+38.95
+            </PRICE>
+            <QUANTITY>
+5
+            </QUANTITY>
+            <CATEGORY>
+Sports-&gt;Athletic Shoes
+            </CATEGORY>
+            <MANUFACTURER>
+Adidas
+            </MANUFACTURER>
+            <BARCODE>
+<![CDATA[5167245544972]]>
+            </BARCODE>
+            <WEIGHT>
+<![CDATA[0.5kg]]>
+            </WEIGHT>
+            <INSTOCK>
+N
+            </INSTOCK>
+            <AVAILABILITY>
+Άμεσα Διαθέσιμο
+            </AVAILABILITY>
+        </PRODUCT>
+
+
+        <PRODUCT>
+            <NAME>
+<![CDATA[adidas Ultimashow 2.0 Γυναικεία Αθλητικά Παπούτσια Running Black / Core Black / Carbon]]>
+            </NAME>
+            <PRICE>
+44.89
+            </PRICE>
+            <QUANTITY>
+5
+            </QUANTITY>
+            <CATEGORY>
+SPORTS-&gt;Athletic Shoes
+            </CATEGORY>
+            <MANUFACTURER>
+Adidas
+            </MANUFACTURER>
+            <BARCODE>
+<![CDATA[5167245544973]]>
+            </BARCODE>
+            <WEIGHT>
+<![CDATA[0.4kg]]>
+            </WEIGHT>
+            <INSTOCK>
+Y
+            </INSTOCK>
+            <AVAILABILITY>
+Άμεσα Διαθέσιμο
+            </AVAILABILITY>
+        </PRODUCT>
+        <PRODUCT>
+            <NAME>
+<![CDATA[Clever Activity Tracker με Παλμογράφο Μαύρο]]>
+            </NAME>
+            <PRICE>
+49
+            </PRICE>
+            <QUANTITY>
+0
+            </QUANTITY>
+            <CATEGORY>
+FITNESS-&gt;Cleverband
+            </CATEGORY>
+            <MANUFACTURER>
+HUAWEI
+            </MANUFACTURER>
+            <BARCODE>
+<![CDATA[3588205264933]]>
+            </BARCODE>
+            <WEIGHT>
+<![CDATA[-]]>
+            </WEIGHT>
+            <INSTOCK>
+N
+            </INSTOCK>
+            <AVAILABILITY>
+Έξαντλήθηκε
+            </AVAILABILITY>
+        </PRODUCT>
+
+
+        <PRODUCT>
+            <NAME>
+<![CDATA[Huawei Band 9 Αδιάβροχο με Παλμογράφο Starry Black]]>
+            </NAME>
+            <PRICE>
+49.90
+            </PRICE>
+            <QUANTITY>
+2
+            </QUANTITY>
+            <CATEGORY>
+FITNESS-&gt;Cleverband
+            </CATEGORY>
+            <MANUFACTURER>
+HUAWEI
+            </MANUFACTURER>
+            <BARCODE>
+<![CDATA[3588205264930]]>
+            </BARCODE>
+            <WEIGHT>
+<![CDATA[-]]>
+            </WEIGHT>
+            <INSTOCK>
+Y
+            </INSTOCK>
+            <AVAILABILITY>
+Άμεσα Διαθέσιμο
+            </AVAILABILITY>
+        </PRODUCT>
+
+
+        <PRODUCT>
+            <NAME>
+<![CDATA[Michael Kors Jet Set Γυναικεία Τσάντα 'Ωμου σε Καφέ χρώμα]]>
+            </NAME>
+            <PRICE>
+139.99
+            </PRICE>
+            <QUANTITY>
+3
+            </QUANTITY>
+            <CATEGORY>
+BAGS-&gt;women's shoulder bag
+            </CATEGORY>
+            <MANUFACTURER>
+Michael Kors
+            </MANUFACTURER>
+            <BARCODE>
+<![CDATA[5167245544970]]>
+            </BARCODE>
+            <WEIGHT>
+<![CDATA[0.5kg]]>
+            </WEIGHT>
+            <INSTOCK>
+Y
+            </INSTOCK>
+            <AVAILABILITY>
+Άμεσα Διαθέσιμο
+            </AVAILABILITY>
+        </PRODUCT>
+
+
+        <PRODUCT>
+            <NAME>
+<![CDATA[Valentino Bags Γυναικεία Τσάντα Ώμου Μαύρη]]>
+            </NAME>
+            <PRICE>
+107.99
+            </PRICE>
+            <QUANTITY>
+0
+            </QUANTITY>
+            <CATEGORY>
+BAGS-&gt;Women's shoulder bag
+            </CATEGORY>
+            <MANUFACTURER>
+VALENTINO
+            </MANUFACTURER>
+            <BARCODE>
+<![CDATA[5167245544970]]>
+            </BARCODE>
+            <WEIGHT>
+<![CDATA[0.5kg]]>
+            </WEIGHT>
+            <INSTOCK>
+N
+            </INSTOCK>
+            <AVAILABILITY>
+Έξαντλήθηκε
+            </AVAILABILITY>
+        </PRODUCT>
+    </PRODUCTS>
+</mywebsite>
